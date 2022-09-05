@@ -1,5 +1,7 @@
 # Hi there 👋
 
+![Greeting](https://i.stack.imgur.com/PHdqr.gif)
+
 My name is Ashutosh Kumar. I am a computer science engineer from India 🇮🇳.
 
 I have one superpower, which is I can write programs. It makes life easiler for me and people around me.
