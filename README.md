@@ -14,4 +14,4 @@ I love technology in general and try to understand the thinking that went behind
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=litoco.overview_page)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flitoco&countColor=%23263759)
