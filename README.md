@@ -8,9 +8,4 @@ I have one superpower, which is I can write programs. It makes life easiler for 
 
 I love technology in general and try to understand the thinking that went behind building it. So that I can utilize it to build something that would help others others.
 
-### Connect with me
-[![stackoverflow](https://i.ibb.co/CB0QvWj/so-1.png)](https://stackoverflow.com/users/14004940/enthusiast)
-
-
-
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flitoco&countColor=%23263759)
