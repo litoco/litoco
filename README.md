@@ -10,7 +10,6 @@ I love technology in general and try to understand the thinking that went behind
 
 ### Connect with me
 [![stackoverflow](https://i.ibb.co/CB0QvWj/so-1.png)](https://stackoverflow.com/users/14004940/enthusiast)
-[![gmail](https://i.ibb.co/nMXNt5C/Gmail-logo-2.png)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=ashutoshkr.1907@gmail.com)
 
 
 
