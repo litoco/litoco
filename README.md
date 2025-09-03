@@ -1,54 +1,25 @@
-# 👋 Hi, I'm Ashutosh Kumar from India 🇮🇳
+# Hi, I'm Ashutosh 👋  
 
-🚀 **SRE / DevOps Engineer** with 4+ years of experience in cloud operations, monitoring, CI/CD automation, and troubleshooting across **GCP** and **OCP** environments.  
-
----
-
-## 🌐 Connect with Me  
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshkr.1907@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-kumar-4738372b1/)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/litoco)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14004940/mr-techie)  
+🚀 **Site Reliability Engineer | DevOps | Python Developer**  
+Experienced in monitoring, observability, automation, and cloud-native systems.  
 
 ---
 
-## 🛠️ Technical Skills  
-
-- **Cloud & Monitoring**: GCP Metrics Explorer, GCP Alerting, GCP Log Explorer, Log Analytics, OCP, Kiali, LogInsight  
-- **Data & Messaging**: Pub/Sub, Dataflow, BigQuery, Spanner, IBM MQs  
-- **CI/CD**: Jenkins, ArgoCD  
-- **Observability**: Prometheus, Grafana  
-
----
-
-## 💼 Work Experience  
-
-**SRE / DevOps Engineer – Tata Consultancy Services (Sept 2020 – Present)**  
-- Managing alerting and monitoring of applications on GCP & OCP  
-- Performing error triaging using **FMEA, RCA, playbooks, post-mortems, documentation/code reviews**  
-- Creating **dashboards, alerts, and log monitoring solutions**  
-- Implementing **CI pipelines in Jenkins** and **CD with ArgoCD**  
+## 🌟 Highlights  
+- 👨‍💻 **4+ years at TCS** across roles in DevSecOps, Python Development, DevOps, and SRE  
+- ⚡ Improved incident response by 30% using RCA playbooks & proactive alerting  
+- 📱 Published apps on Play Store: [Reminder](https://play.google.com/store/apps/details?id=com.litoco.reminderapp), [Notes](https://play.google.com/store/apps/details?id=com.freeapps.notes)  
+- 🧩 **Contributed to [React Native](https://github.com/facebook/react-native) open-source project**  
+- 🎯 Participated in **Google UX Research** on observability & monitoring  
+- 📄 **[View My Resume (PDF)](https://drive.google.com/file/d/1lrYpWYWX8vkDUhPxe6rClQU9K3BW6qhj/view?usp=sharing)**  
 
 ---
 
-## 🎓 Education  
-
-**B.Tech.** – Jaypee University of Engineering and Technology, Guna, MP (2020)  
-
----
-
-## 📱 Projects  
-
-📌 [Reminder App](https://lnkd.in/eyerqf7s) – A productivity app to manage reminders  
-📌 [Notes App](https://lnkd.in/ePAY3sbE) – A simple and effective notes-taking app  
+## 📌 Pinned Projects  
+👉 *(Coming soon: Python automation scripts, Kubernetes monitoring setup, Terraform infra demos)*  
 
 ---
 
-## 🏆 Awards & Achievements  
-
-🏅 Appreciation from TCS client for outstanding contributions  
-
----
-
-⭐️ *Always eager to learn, build, and contribute to innovative solutions in SRE and DevOps.*  
+## 📫 Connect with Me  
+- LinkedIn: [linkedin.com/in/ashutoshkumar](https://linkedin.com/in/ashutoshkumar)  
+- GitHub: [github.com/litoco](https://github.com/litoco)  
